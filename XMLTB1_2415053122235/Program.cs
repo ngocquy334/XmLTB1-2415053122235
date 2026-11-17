@@ -97,3 +97,11 @@ namespace XMLTB1_2415053122235
             Console.WriteLine($"So phong ban: {(int)soPhong}");
             Console.WriteLine($"So nhan vien: {(int)soNhanVien}");
         }
+        static void XuLyXPath(XmlDocument doc, string arg)
+        {
+
+        }
+        static void XuLyThuong(XmlDocument doc, string arg)
+        {
+
+        }
